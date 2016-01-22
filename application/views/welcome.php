@@ -1,3 +1,4 @@
+<!--
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
@@ -22,6 +23,7 @@
             </div>
             <div class="alone"></div>
             <div id="content">
+                -->
                 <table cols="3" class="gallery">
                     <tr>
                         <td class="oneimage">
@@ -37,6 +39,7 @@
                 </table>
                 <h1>This is just a simple image gallery :)</h1>
                 <p>The images above are the three most recently posted.</p>
+<!--               
             </div>
             <div id="footer" class="span12">
                 Copyright &copy; 2014,  <a href="mailto:someone@somewhere.com">Me</a>.
@@ -46,3 +49,4 @@
         <script type="text/javascript" src="js/lightbox.min.js"></script> 
     </body>
 </html>
+-->
